@@ -1,0 +1,17 @@
+[
+    {
+        "UserName":"Ujjwal",
+        "Password":"1234",
+        "Role":"Student"
+    },
+    {
+        "UserName":"Ujjwal1",
+        "Password":"1234d",
+        "Role":"Student"
+    },
+    {
+        "UserName":"Ujjwal2",
+        "Password":"123423",
+        "Role":"admin"
+    }
+]

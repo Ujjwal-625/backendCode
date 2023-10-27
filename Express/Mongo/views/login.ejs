@@ -1,0 +1,15 @@
+<html>
+    <body>
+        <p><%= message %></p>
+        <p>
+            <% if(message.length>0){%>
+                <a href="/SignUp">Sign Up</a>
+            <% }%>
+        </p>
+        <form action="/loginPage">
+            UserName<input type="text" name="UserName"/>
+            Password<input type="password" name="Password"/>
+            <input type="submit">
+        </form>
+    </body>
+</html>
